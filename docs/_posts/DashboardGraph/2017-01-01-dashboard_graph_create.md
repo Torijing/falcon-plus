@@ -1,7 +1,7 @@
 ---
 category: DashboardGraph
 apiurl: '/api/v1/dashboard/graph'
-title: 'Create User'
+title: 'Create Graph'
 type: 'POST'
 sample_doc: 'dashboard.html'
 layout: default
